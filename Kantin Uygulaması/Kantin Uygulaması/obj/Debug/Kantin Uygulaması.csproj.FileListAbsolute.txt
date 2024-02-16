@@ -1,0 +1,13 @@
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\bin\Debug\Kantin Uygulaması.exe.config
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\bin\Debug\Kantin Uygulaması.exe
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\bin\Debug\Kantin Uygulaması.pdb
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin Uygulaması.csproj.AssemblyReference.cache
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin_Uygulaması.Form1.resources
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin_Uygulaması.Properties.Resources.resources
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin_Uygulaması.siparis.resources
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin Uygulaması.csproj.GenerateResource.cache
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin Uygulaması.exe
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin Uygulaması.pdb
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin_Uygulaması.Bekleme.resources
+C:\Users\furki\source\repos\Kantin Uygulaması\Kantin Uygulaması\obj\Debug\Kantin_Uygulaması.gecmis.resources
